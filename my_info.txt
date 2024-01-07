@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 hjkkjdsk
+this is it
 fgsfdg
 QWWQ
+=======
+
+hello guys
+>>>>>>> dev1
 hi i every one
